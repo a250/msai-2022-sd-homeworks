@@ -1,4 +1,4 @@
-# Implementation of Dependency Injection pattern as a Structural pattern
+# Implementation of Facade pattern as a Structural pattern
 
 
 import numpy as np
